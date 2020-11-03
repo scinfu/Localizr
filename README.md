@@ -15,7 +15,7 @@ Localizr is a Tool that handles and automates localization files. Basically we g
 - Integrated with `Fastlane actions`. (`Fastlane actions localizr`) 
 - Default fallback for missing localizations.
 - Export and import to different file format.
-- Easy deployment: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/michaelhenry/localizr)
+- Easy deployment: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/scinfu/localizr)
 - Dockerized: `docker pull michaelhenry119/localizr`
 - Static files hosted in AWS S3 (Optional)
 - Snapshots
